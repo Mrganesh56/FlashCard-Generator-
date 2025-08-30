@@ -1,0 +1,5 @@
+{
+  "name": "Study Decks: AI Flashcard Generator",
+  "description": "An interactive web application for high school and college students. Paste your study notes, and the app uses AI to generate interactive, downloadable flashcards to help you learn faster and more effectively.",
+  "requestFramePermissions": []
+}
